@@ -1,0 +1,23 @@
+{
+  "repo": "kmplayer-professional-suite",
+  "product": "KMPlayer Professional Suite",
+  "kind": "video",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "video",
+  "topics": [
+    "kmplayer",
+    "media-player",
+    "codec-playback",
+    "playlist-manager",
+    "video-player-windows",
+    "kmplayer-setup-failed-fix",
+    "how-to-install-kmplayer",
+    "kmplayer-windows",
+    "kmplayer-desktop-2026",
+    "kmplayer-desktop-package"
+  ],
+  "site": "toolix.me"
+}
